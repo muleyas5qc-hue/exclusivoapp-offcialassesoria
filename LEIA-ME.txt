@@ -1,0 +1,26 @@
+SITE — 61.612.015 Jenaina Brignoli
+
+Arquivos:
+- index.html: página principal de apresentação.
+- sobre.html: página institucional.
+- privacidade.html: política de privacidade.
+- termos.html: termos de uso.
+- styles.css: estilos personalizados.
+- assets/: imagens fornecidas para o site.
+
+Como visualizar:
+1. Extraia o arquivo ZIP.
+2. Abra index.html no navegador.
+3. Para publicar, envie todos os arquivos mantendo a mesma estrutura de pastas para sua hospedagem.
+
+Tecnologias:
+- HTML5, CSS3 e Bootstrap 5.3.3 via CDN.
+- Bootstrap Icons via CDN.
+- Google Fonts via CDN.
+
+Antes de anunciar no Google Ads:
+- Confirme se o telefone, e-mail, endereço, CNPJ e descrição dos serviços estão corretos.
+- Confirme se a empresa realmente oferece todos os serviços descritos e ajuste o texto ao escopo efetivo.
+- Revise a Política de Privacidade conforme os dados realmente coletados e ferramentas de análise/anúncio instaladas.
+- Verifique licenças e direitos de uso das imagens.
+- A aprovação no Google Ads não é garantida pelo modelo do site; depende também do anúncio, da oferta, da página publicada e das políticas vigentes.
